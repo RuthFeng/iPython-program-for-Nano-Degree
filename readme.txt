@@ -1,1 +1,1 @@
-The ipython programs for UdaCity DataAnalysis Advanced and AI-Python Nano Degree course.
+The ipython programs for UdaCity DataAnalysis Advanced and AI-Python Nano Degree courses.
